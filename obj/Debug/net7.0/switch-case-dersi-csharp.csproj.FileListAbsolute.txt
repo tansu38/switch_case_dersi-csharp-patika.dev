@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\obj\Debug\net7.0\switch-case-dersi-csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\obj\Debug\net7.0\switch-case-dersi-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\obj\Debug\net7.0\switch-case-dersi-csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\obj\Debug\net7.0\switch-case-dersi-csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\obj\Debug\net7.0\switch-case-dersi-csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\bin\Debug\net7.0\switch-case-dersi-csharp.exe
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\bin\Debug\net7.0\switch-case-dersi-csharp.deps.json
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\bin\Debug\net7.0\switch-case-dersi-csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\bin\Debug\net7.0\switch-case-dersi-csharp.dll
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\bin\Debug\net7.0\switch-case-dersi-csharp.pdb
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\obj\Debug\net7.0\switch-case-dersi-csharp.dll
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\obj\Debug\net7.0\refint\switch-case-dersi-csharp.dll
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\obj\Debug\net7.0\switch-case-dersi-csharp.pdb
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\obj\Debug\net7.0\switch-case-dersi-csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\switch-case-dersi-csharp\obj\Debug\net7.0\ref\switch-case-dersi-csharp.dll
